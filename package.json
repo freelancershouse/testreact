@@ -1,0 +1,19 @@
+{
+  "name": "data-manipulation",
+  "version": "1.0.0",
+  "description": "Data manipulations using JEST tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Walkwel Technology",
+  "license": "ISC",
+  "dependencies": {
+    "core-js": "^3.9.0",
+    "lodash": "^4.17.21",
+    "winston": "^3.3.3"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
